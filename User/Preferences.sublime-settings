@@ -1,0 +1,22 @@
+{
+	"enable_animations":false,
+	"highlight_line":true,
+	// "ui_scale":1.5,
+	"file_tab_style":"square",
+	"relative_line_numbers": true,
+	"drag_text":false,
+	"scroll_speed": 200,
+	"ignored_packages":[],
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"vintage_start_in_command_mode": true,
+	"font_size": 9,
+	// "ui_scale":2,
+	"theme": "Default Dark.sublime-theme",
+	"inactive_sheet_dimming": false,
+	"auto_complete_trailing_symbols": true,
+	"font_options":[
+		"bold" // not needed 
+	],
+	"indent_guide_options":["solid","draw_normal","draw_active_single"],
+	// "font_face":"ubuntu mono",
+}

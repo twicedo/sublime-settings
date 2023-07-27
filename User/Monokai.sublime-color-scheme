@@ -1,0 +1,19 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+	"variables":
+	{
+	},
+	"globals":
+	{
+		"active_gutter_highilight":"red",
+		"foreground":"color(#fbf1c7 blend(#b8bb28 27%))",
+		"brackets_options":"glow & bold",
+	    "brackets_foreground": "#b8bb28",
+        "bracket_contents_options": "glow & bold",
+        "bracket_contents_foreground": "#ac80ff",
+	},
+	"rules":
+	[
+		
+	]
+}

@@ -1,0 +1,4 @@
+// These settings override both User and Default settings for the Rust syntax
+{
+	// "font_size":"11"
+}
